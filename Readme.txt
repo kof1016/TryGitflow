@@ -1,3 +1,3 @@
 try_gitflow
 
-lastest version is v0.1.1
+lastest version is v0.1.2
